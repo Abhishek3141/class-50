@@ -1,0 +1,26 @@
+.Title{
+    color: white;
+    border: double;
+    text-align: center;
+    line-height: 20px;
+}
+.games{
+    color: white;
+    border: double;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+p{
+text-align:center ;
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+.sm{
+    display: flex;
+    justify-content: left;
+    
+}
